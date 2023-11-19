@@ -113,7 +113,7 @@ div.social:hover,
 p.headingMain {
   color: rgb(40, 40, 40);
   font-size: 10vw;
-  font-family: 'Comfortaa-Light', sans-serif !important;
+  font-family: 'Comic Sans MS';
   height: 1.5vw;
   margin-top: 2vw;
 }
@@ -236,13 +236,13 @@ div.contactMe {
 }
 
 h1 {
-  font-family: 'Comfortaa-Light', sans-serif !important;
+  font-family: 'Comic Sans MS' !important;
   color: rgb(245, 245, 245);
   font-size: max(1.5vw, 13px);
 }
 
 #paragraphNormal {
-  font-family: 'Comfortaa-Light', sans-serif !important;
+  font-family: 'Comic Sans MS' !important;
   color: rgb(245, 245, 245);
   font-size: max(1.3vw, 12px);
   padding: 1vw;
@@ -284,7 +284,7 @@ img.signatureImg {
 }
 
 .content {
-  font-family: 'Comfortaa-Light', sans-serif !important;
+  font-family: 'Comic Sans MS';
   color: rgb(245, 245, 245);
   background-color: rgb(41, 41, 41);
   padding: 10px;
@@ -314,10 +314,10 @@ div.large {
   padding-bottom: 2vw;
 }
 
-@font-face {
+/*@font-face {
   font-family: 'Comfortaa-Light';
   src: url("/fonts/Comfortaa-Light.ttf");
-}
+}*/
 
 /*  To make the image fade in on scroll */
 
